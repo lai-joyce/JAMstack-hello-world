@@ -33,11 +33,14 @@
     "tmp": "^0.2.4",
     "serialize-javascript": "^7.0.5",
     "immutable": "^4.3.7",
-    "sharp": "^0.33.5",
+    "sharp": "^0.35.4",
     "path-to-regexp": "0.1.13",
     "cookie": "^0.7.2",
     "webpack": "^5.105.0",
-    "uuid": "^11.1.1"
+    "uuid": "^11.1.1",
+    "file-type": "^21.3.1",
+    "decode-uri-component": "^0.5.0",
+    "@parcel/reporter-dev-server": "2.16.4"
   },
   "repository": {
     "type": "git",
