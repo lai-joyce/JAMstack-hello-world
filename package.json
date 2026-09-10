@@ -39,11 +39,13 @@
     "webpack": "^5.105.0",
     "uuid": "^11.1.1",
     "file-type": "^21.3.1",
-    "decode-uri-component": "^0.5.0",
-    "@parcel/reporter-dev-server": "2.16.4"
+    "decode-uri-component": "^0.5.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "engines": {
+    "node": ">=20.9.0"
   }
 }
